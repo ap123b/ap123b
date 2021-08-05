@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Shynji Robbie Miyasato
 
-<!--
-**ap123b/ap123b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm currently studying at IFMS**
 
-Here are some ideas to get you started:
+For an year I've been learning programming languages such as C++, Java and Python. Though I'm not really good at coding, I really enjoy the activity and I try to improve and learn more about it as much as possible. It is a way I've found to practice english and learn more about different topics regarding computers.
+\
+\
+\
+**What I'm focusing on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on improving my C++ skills as well as learn more about Web Development.
+\
+\
+\
+**Where you can find me**
+
+[Twitter](https://twitter.com/ap123b2)
